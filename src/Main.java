@@ -6,6 +6,6 @@ public class Main {
         int oneBonusMile = 20;
 
         int bonus = ticketPrice / oneBonusMile;
-        System.out.println("Ваш бонус составит: " + bonus + "руб.");
+        System.out.println("Ваш бонус составит: " + bonus);
     }
 }
