@@ -2,10 +2,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int TicketPrice = 205;
-        int OneBonusMile = 20;
+        int ticketPrice = 205;
+        int oneBonusMile = 20;
 
-        int bonus = TicketPrice / OneBonusMile;
+        int bonus = ticketPrice / oneBonusMile;
         System.out.println("Ваш бонус составит: " + bonus);
     }
 }
